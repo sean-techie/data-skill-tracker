@@ -19,9 +19,7 @@ A data analytics dashboard built with Python, Pandas, Streamlit, and Plotly to a
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](images/dashboard-preview.png)
 
 ## Author
 
