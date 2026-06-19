@@ -1,11 +1,16 @@
-job_title,skills
-Frontend Developer,React JavaScript HTML CSS
-Data Analyst,Python SQL Excel Pandas
-Software Engineer,Java Python Git Docker
-Frontend Developer,React TypeScript CSS Next.js
-Data Analyst,SQL Python Tableau Excel
-Backend Developer,Node.js Express MongoDB Docker
-Data Scientist,Python Machine Learning Pandas SQL
-Frontend Developer,HTML CSS JavaScript React
-Data Analyst,Excel SQL Python Power BI
-Software Engineer,Python JavaScript AWS Git
+job_title,industry,skills
+Frontend Developer,Technology,React JavaScript HTML CSS
+Data Analyst,Technology,Python SQL Excel Pandas
+Software Engineer,Technology,Java Python Git Docker
+Marketing Specialist,Marketing,SEO Content-Creation Google-Analytics Social-Media
+Digital Marketer,Marketing,SEO Email-Marketing Analytics Copywriting
+Accountant,Finance,Excel Accounting Taxation Financial-Reporting
+Financial Analyst,Finance,Excel Forecasting Power-BI SQL
+HR Officer,Human Resources,Recruitment Employee-Relations Communication Payroll
+Recruiter,Human Resources,Sourcing Interviewing Communication ATS
+Project Manager,Management,Leadership Planning Risk-Management Communication
+Operations Manager,Management,Leadership Logistics Reporting Budgeting
+Customer Service Agent,Customer Service,Communication CRM Problem-Solving Conflict-Resolution
+Sales Representative,Sales,Negotiation Communication CRM Lead-Generation
+Business Analyst,Business,Requirements-Gathering SQL Documentation Power-BI
+Data Scientist,Technology,Python Machine-Learning SQL Pandas
